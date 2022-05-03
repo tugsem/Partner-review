@@ -4,7 +4,7 @@
 > Created a simple list using webpack and Es6. 
 
 
-## Built With
+## Built With 
 
 - Html
 - Css
@@ -14,6 +14,7 @@
 
 ## Live Demo 
 
+[Live Demo Link](https://tugsem.github.io/Partner-review/dist)
 
 ## Getting Started
 
