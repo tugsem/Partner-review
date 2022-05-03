@@ -14,7 +14,6 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://tugsem.github.io/To-do-list/dist/)
 
 ## Getting Started
 
