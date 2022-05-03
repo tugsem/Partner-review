@@ -14,7 +14,10 @@
 
 ## Live Demo 
 
+<<<<<<< HEAD
 [Live Demo Link](https://tugsem.github.io/Partner-review/dist)
+=======
+>>>>>>> main
 
 ## Getting Started
 
